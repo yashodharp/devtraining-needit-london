@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="label" max_length="40" name="option" type="collection">
+        <element label="New True/False" max_length="40" name="x_58872_needit_u_boolean_4" type="boolean"/>
+        <element label="New True/False" max_length="40" name="x_58872_needit_u_boolean_6" type="boolean"/>
+        <element label="New Due Date" max_length="40" name="x_58872_needit_u_due_date_2" type="due_date"/>
+        <element label="New Date" max_length="40" name="x_58872_needit_u_glide_date_1" type="glide_date"/>
+        <element label="New Time" max_length="40" name="x_58872_needit_u_glide_time_5" type="glide_time"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="New Price" max_length="20" name="x_58872_needit_u_price_3" type="price"/>
+    </element>
+</database>
